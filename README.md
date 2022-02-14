@@ -27,7 +27,7 @@ O desenvolvimento precisa contemplar as 4 operações de CRUD, ou seja, inserir,
 
 |                                                               |   |
 |---------------------------------------------------------------|---|
-| ReatJs/NextJs                                                 | ✔ |
+| ReactJs/NextJs                                                | ✔ |
 | Material UI/ Style components                                 | ✔ |
 | Boa organização do código                                     | ✔ |
 | Boa estruturação do projeto                                   | ✔ |
